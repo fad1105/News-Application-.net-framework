@@ -6,3 +6,6 @@ it show top 3 news from each section
 section 
 it show top 10 hews in each section
 for next ten news we need to press next button 
+
+nevbar 
+diffrent section url are given 
