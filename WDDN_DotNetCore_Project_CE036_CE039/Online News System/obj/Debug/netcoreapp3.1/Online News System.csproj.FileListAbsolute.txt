@@ -1,0 +1,37 @@
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.exe
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.deps.json
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.runtimeconfig.json
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.runtimeconfig.dev.json
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.dll
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.pdb
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.Views.dll
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\Online News System.Views.pdb
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.AssemblyInfo.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\staticwebassets\Online News System.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\staticwebassets\Online News System.StaticWebAssets.xml
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online News System.styles.css
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.TagHelpers.input.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.TagHelpers.output.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.RazorCoreGenerate.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.Views.pdb
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.dll
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.pdb
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.genruntimeconfig.cache
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Online News System.csproj.CopyComplete
