@@ -5,4 +5,8 @@
     <RootNamespace>Online_News_System</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NewsAPI" Version="0.6.0" />
+  </ItemGroup>
+
 </Project>

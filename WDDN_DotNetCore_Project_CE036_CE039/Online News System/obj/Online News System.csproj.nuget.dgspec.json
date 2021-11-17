@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj": {}
+    "C:\\Users\\fenil\\Desktop\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj": {
+    "C:\\Users\\fenil\\Desktop\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj",
+        "projectUniqueName": "C:\\Users\\fenil\\Desktop\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj",
         "projectName": "Online News System",
-        "projectPath": "C:\\Users\\Lenovo\\source\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\obj\\",
+        "projectPath": "C:\\Users\\fenil\\Desktop\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\Online News System.csproj",
+        "packagesPath": "C:\\Users\\fenil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fenil\\Desktop\\News-Web-Application-.net-framework\\WDDN_DotNetCore_Project_CE036_CE039\\Online News System\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fenil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -39,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NewsAPI": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

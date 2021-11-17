@@ -50,7 +50,7 @@ namespace Online_News_System
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=News}/{action=Index}/{id=6}");
             });
         }
     }
