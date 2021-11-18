@@ -1,0 +1,67 @@
+﻿@model ArticlesResult
+@{
+    Layout = "~/Views/News/_NewsLayout.cshtml";
+}
+<div>
+    <br />
+
+    <div class="container">
+        <div>
+            @if (ViewBag.HeadIn)
+            {
+                <h1>Headlines</h1>
+            }
+            else
+            {
+                @if (@ViewBag.isSep)
+                {
+                    <h1>@ViewBag.Text</h1>
+                }
+                else
+                {
+
+                    <h6>Search result: @ViewBag.Text</h6>
+                }
+            }
+        </div>
+        <br />
+        @if (@Model.TotalResults > 0)
+        {
+
+            @foreach (var ar in Model.Articles)
+            {
+                <div class="card" style="border-radius: 20px; background-color: #f7fffb; ">
+                    <div class="row m-3">
+                        <h4>@ar.Title</h4>
+                        <div class="col-8 ">
+                            <br />
+                            <div class="row">
+                                <div class="col">
+                                    <h6>source: @ar.Source.Name</h6>
+                                </div>
+                                <div class="col text-right">
+                                    <h6>Published At : @ar.PublishedAt</h6>
+                                </div>
+
+                            </div>
+                            <div>@ar.Description</div>
+                            <div>@ar.Content</div>
+                            <a href="@ar.Url">View Full Coverage</a>
+                        </div>
+                        <div class="col-3 ml-4 mt-3 ">
+                            <br />
+                            <img style="float: right; z-index:1;border-radius:10px;" alt="" src="@ar.UrlToImage" width="100%" />
+                        </div>
+                    </div>
+                </div>
+                <br />
+            }
+
+        }
+        else
+        {
+            <h4>No Result Found.</h4>
+        }
+    </div>
+</div>
+

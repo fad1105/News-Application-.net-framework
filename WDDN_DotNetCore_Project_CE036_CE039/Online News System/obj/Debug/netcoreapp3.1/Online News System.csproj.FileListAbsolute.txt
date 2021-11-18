@@ -167,3 +167,12 @@ C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Proje
 C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\bin\Debug\netcoreapp3.1\NewsAPI.dll
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\News\SerachNewsForm.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PrintNews.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Views\News\_NewsLayout.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs

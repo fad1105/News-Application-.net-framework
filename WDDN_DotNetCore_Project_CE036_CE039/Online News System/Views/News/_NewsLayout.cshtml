@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Online_News_System</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link href="https://getbootstrap.com/docs/5.1/examples/sidebars/sidebars.css" rel="stylesheet">
+    <script>
+        const nextUrl = (text) => {
+            var loc = "/News/Index/" + text;
+            console.log(loc);
+            location.href = loc;
+        }
+    </script>
+    <style>
+        button {
+            border: none;
+            outline: 0;
+            padding: 12px;
+            color: white;
+            text-align: center;
+            width: 100%;
+            font-size: 18px;
+        }
+
+            button:hover {
+                background-color: white;
+                color: black;
+            }
+
+        body {
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <main role="main" class="pb-3  ">
+        <div class="d-flex flex-column flex-shrink-0 p-3 bg-light" style="width: 300px; ">
+            <button class=" btn btn-outline-dark" style="border:none" onclick="nextUrl(6)"><h5><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vAOJ24qnoK1Omgt_dzt-SFATzCCEtfqDrw&usqp=CAU" alt="" width="40" height="40" style="border-radius:50% ">  Online News System</h5></button>
+            <hr>
+            <ul class="nav nav-pills flex-column mb-auto">
+
+                <li class="nav-item">
+
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-dark" style="border:none" onclick="nextUrl(id)" id="0">Business</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-dark" style="border:none" onclick="nextUrl(id)" id="1">Entertainment</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-dark" style="border:none" onclick="nextUrl(id)" id="2">Health</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-dark" style="border:none" onclick="nextUrl(id)" id="3">Science</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-dark" style="border:none" onclick="nextUrl(id)" id="4">Sports</button>
+                </li>
+                <li class="nav-item">
+                    <button class="btn btn-outline-dark" style="border:none" onclick="nextUrl(id)" id="5">Technology</button>
+                </li>
+            </ul>
+        </div>
+        <div style="overflow: scroll;">
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-light box-shadow mb-3 fixed-top" style="margin-left:300px">
+                <div class="container">
+                    <form class="d-flex" asp-controller="SearchNews" asp-action="Index" method="post">
+                        <input class="form-control me-2" id="Text" type="text" placeholder="Search" aria-label="Search" name="Text" required />
+                        <input class="btn btn-outline-primary mx-1" type="submit" value="Search" />
+                    </form>
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <partial name="/Views/Shared/_LoginPartial.cshtml" />
+                    </div>
+                </div>
+            </nav>
+            <div  class="container" style="margin-top:70px;">@RenderBody()</div>
+
+        </div>
+
+
+
+
+    </main>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script src="https://getbootstrap.com/docs/5.1/examples/sidebars/sidebars.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

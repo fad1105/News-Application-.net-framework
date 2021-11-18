@@ -26,8 +26,29 @@ using Online_News_System.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\Views\_ViewImports.cshtml"
+using NewsAPI;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\Views\_ViewImports.cshtml"
+using NewsAPI.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "C:\Users\Lenovo\source\News-Web-Application-.net-framework\WDDN_DotNetCore_Project_CE036_CE039\Online News System\Views\_ViewImports.cshtml"
+using NewsAPI.Constants;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6a024ee6684ed28086c47587751653ab318180b5", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6fba857c4c8dfe4594112e19233b3588a7029b7", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
